@@ -1,6 +1,6 @@
-### 🛠️ Bem-vindo ao repositório do projeto de introdução do DevOps Core ###
+# 🛠️ Bem-vindo ao repositório do projeto de introdução do DevOps Core ###
 
-* **Os projetos são uma ferramenta personalizável e flexível para planejar e acompanhar seu trabalho.**
+> **Os projetos são uma ferramenta personalizável e flexível para planejar e acompanhar seu trabalho.**
 
 
 
